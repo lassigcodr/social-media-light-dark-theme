@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://github.com/ctrlwisdom/social-media-light-dark-theme)
-- Live Site: [Click here](https://ctrlwisdom.github.io/social-media-light-dark-theme/index.html)
+- Solution URL: [Click here](https://github.com/nmankandeze/social-media-light-dark-theme)
+- Live Site: [Click here](https://nmankandeze.github.io/social-media-light-dark-theme/index.html)
 
 
 ## My process
@@ -48,6 +48,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@ctrlwisdom](https://www.frontendmentor.io/profile/ctrlwisdom)
-- Twitter - [@ctrlwisdom](https://www.twitter.com/ctrlwisdom)
+- Frontend Mentor - [@nmankandeze](https://www.frontendmentor.io/profile/nmankandeze)
+- Twitter - [@nmankandeze](https://www.twitter.com/nmankandeze)
 
